@@ -1,2 +1,2 @@
 # Image-classification-using-deep-learning
-deep learning Gi Track Endoscope image classification project using pretrained models
+gastrointestinal (GI) tract Endoscope image classification project with pretrained models
